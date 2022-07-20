@@ -46,9 +46,9 @@ outras áreas.
 [![C Sharp]](https://docs.microsoft.com/en-us/dotnet/csharp/ "C")
 [![Go]](https://go.dev/ "Go")
 [![JavaScript]](https://www.javascript.com/ "JavaScript")
-[![Swift]](https://swift.org/ "Swift")
 [![Racket]](https://racket-lang.org/ "Racket")
 [![Rust]](https://rust-lang.org/ "Rust")
+[![Swift]](https://swift.org/ "Swift")
 [![Zig]](https://ziglang.org/ "Zig")
 
 [C]: https://img.shields.io/badge/C-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=c
@@ -56,18 +56,18 @@ outras áreas.
 [C Sharp]: https://img.shields.io/badge/C%23-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=C+Sharp
 [Go]: https://img.shields.io/badge/Go-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Go
 [JavaScript]: https://img.shields.io/badge/JavaScript-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=JavaScript
-[Swift]: https://img.shields.io/badge/Swift-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Swift
 [Racket]: https://img.shields.io/badge/Racket-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Racket
 [Rust]: https://img.shields.io/badge/Rust-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Rust
+[Swift]: https://img.shields.io/badge/Swift-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Swift
 [Zig]: https://img.shields.io/badge/Zig-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Zig
 
 <!-- Source control managers -->
 
-[![Git]](https://git-scm.com/ "Git")
 [![Fossil SCM]](https://fossil-scm.org/ "Fossil SCM")
+[![Git]](https://git-scm.com/ "Git")
 
-[Git]: https://img.shields.io/badge/Git-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Git
 [Fossil SCM]: https://img.shields.io/badge/Fossil%20SCM-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Fossil%20SCM
+[Git]: https://img.shields.io/badge/Git-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Git
 
 <!-- Pipelines -->
 
@@ -79,14 +79,14 @@ outras áreas.
 
 [![Emacs]](https://gnu.org/software/emacs "Emacs")
 [![Neovim]](https://neovim.io/ "Neovim")
-[![Visual Studio Code]](https://code.visualstudio.com/ "Visual Studio Code")
 [![Rider]](https://www.jetbrains.com/rider/ "Rider")
+[![Visual Studio Code]](https://code.visualstudio.com/ "Visual Studio Code")
 [![Xcode]](https://developer.apple.com/xcode/ "Xcode")
 
 [Emacs]: https://img.shields.io/badge/Emacs-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=GNU%20Emacs
 [Neovim]: https://img.shields.io/badge/Neovim-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Neovim
-[Visual Studio Code]: https://img.shields.io/badge/Visual%20Studio%20Code-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Visual%20Studio%20Code
 [Rider]: https://img.shields.io/badge/Rider-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Rider
+[Visual Studio Code]: https://img.shields.io/badge/Visual%20Studio%20Code-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Visual%20Studio%20Code
 [Xcode]: https://img.shields.io/badge/Xcode-4A4E69?style=for-the-badge&labelColor=22223b&logoColor=f2e9e4&logo=Xcode
 
 <!-- Operating Systems -->
