@@ -1,10 +1,12 @@
-<h1 align="center">🇬🇧 / 🇺🇸</h1>
+<details>
+<summary>🇬🇧 / 🇺🇸</summary>
 
 Currently working as an iOS developer, but I know a lot of other things too.
 
----
+</details>
 
-<h1 align="center"> 🇧🇷 / 🇵🇹 </h1>
+<details>
+<summary> 🇧🇷 / 🇵🇹 </summary>
 
 (Meu outro README é um [blog][]!)
 
@@ -12,6 +14,8 @@ Currently working as an iOS developer, but I know a lot of other things too.
 
 Atualmente atuando como desenvolvedor iOS, porém também tenho conhecimento em
 outras áreas.
+
+</details>
 
 ---
 
